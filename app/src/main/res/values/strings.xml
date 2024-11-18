@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TelephoneDirectory</string>
+
+    <string-array name="photos">
+        <item>ahmet</item>
+        <item>ela</item>
+        <item>aysel</item>
+        <item>hamit</item>
+    </string-array>
+</resources>
